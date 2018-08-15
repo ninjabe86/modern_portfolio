@@ -100,6 +100,9 @@
       //Slide in from right
       transform: translate3d(0, 0, 0);
     }
+    &.current > a {
+      color: $secondary-color;
+    }
   }
 
   .nav-link {
@@ -112,6 +115,9 @@
     color: white;
     text-decoration: none;
     @include easeout;
+    &:hover {
+      color: $secondary-color;
+    }
   }
 }
 
