@@ -14,5 +14,13 @@
     "gh-pages": "^1.2.0",
     "node-sass": "^4.9.3",
     "sass": "^1.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjabe86/modern_portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ninjabe86/modern_portfolio/issues"
   }
 }
